@@ -1,4 +1,4 @@
-uroboro.github.io
+Cozmikk.github.io
 =================
 
-GitHub Pages page on GitHub
+This is a second attempt at making a repo for Cydia! :)
